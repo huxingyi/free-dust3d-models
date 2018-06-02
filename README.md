@@ -12,4 +12,4 @@ Feel free to make a pull request to share your Dust3D models.
 
 License
 -----------
-This repository use MIT license, you can use all the models freely no matter for personal or commercial purpose without ask permission as long as you mentioned Dust3D software as the authoring tool.
+This repository use MIT license, **unless licensed separately in the model folder**, you can use all the models freely no matter for personal or commercial purpose without ask permission as long as you mentioned Dust3D software as the authoring tool.
