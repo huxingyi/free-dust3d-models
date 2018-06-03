@@ -6,7 +6,7 @@ This repository hosts free [Dust3D](https://github.com/huxingyi/dust3d) models.
 
 > Dust3D is a brand new 3D modeling software. It helps you create a 3D watertight base model in seconds. Use it to speed up your character modeling in game making, 3D printing, and so on.
 
-<image src="https://raw.githubusercontent.com/huxingyi/free-dust3d-models/master/free-dust3d-models.png" height="50">
+<a href="https://github.com/huxingyi/free-dust3d-models/tree/master/models"><image src="https://raw.githubusercontent.com/huxingyi/free-dust3d-models/master/free-dust3d-models.png" height="50"></a>
 
 Contributing
 -----------
