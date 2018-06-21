@@ -3,6 +3,7 @@ convert \
     -page +100+0 models/ant/ant-render.png \
     -page +200+0 models/panda/panda-render.png \
     -page +300+0 models/bottle/bottle-render.png \
+    -page +400+0 models/elephant/elephant-render.png \
 -background transparent -layers mosaic +repage free-dust3d-models.png
 
 convert free-dust3d-models.png \
