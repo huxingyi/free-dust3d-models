@@ -6,6 +6,7 @@ convert \
     -page +400+0 models/elephant/elephant-render.png \
     -page +500+0 models/toad/toad-render.png \
     -page +600+0 models/hotdog/hotdog-render.png \
+    -page +700+0 models/guitar/guitar-render.png \
 -background transparent -layers mosaic +repage free-dust3d-models.png
 
 convert free-dust3d-models.png \
