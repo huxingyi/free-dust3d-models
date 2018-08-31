@@ -8,6 +8,7 @@ convert \
     -page +600+0 models/hotdog/hotdog-render.png \
     -page +700+0 models/guitar/guitar-render.png \
     -page +800+0 models/webcam/webcam-render.png \
+    -page +900+0 models/plant/plant-render.png \
 -background transparent -layers mosaic +repage free-dust3d-models.png
 
 convert free-dust3d-models.png \
