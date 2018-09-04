@@ -10,6 +10,7 @@ convert \
     -page +800+0 models/webcam/webcam-render.png \
     -page +900+0 models/plant/plant-render.png \
     -page +1000+0 models/wires/wires-render.png \
+    -page +1100+0 models/head/head-render.png \
 -background transparent -layers mosaic +repage free-dust3d-models.png
 
 convert free-dust3d-models.png \
